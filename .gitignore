@@ -1,0 +1,8 @@
+# Project exclude paths
+/mall-buyer-api/target/
+/mall-buyer-provider/target/
+/mall-common/target/
+/mall-dao/target/
+/mall-model/target/
+/mall-service/target/
+/mall-service-impl/target/
